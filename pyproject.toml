@@ -1,0 +1,7 @@
+[project]
+name = "data-pipeline"
+version = "0.1.0"
+description = "Process taxi data and ingest to DB"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
